@@ -1,0 +1,17 @@
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\BannerflowTest.deps.json
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\BannerflowTest.runtimeconfig.json
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\BannerflowTest.runtimeconfig.dev.json
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\BannerflowTest.dll
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.csprojAssemblyReference.cache
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.csproj.CoreCompileInputs.cache
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.AssemblyInfoInputs.cache
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.AssemblyInfo.cs
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\Bannerflow.dll
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\Bannerflow.pdb
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.csproj.CopyComplete
+E:\source\repos\Banner\BannerflowTest\bin\Debug\netcoreapp2.1\BannerflowTest.pdb
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.dll
+E:\source\repos\Banner\BannerflowTest\obj\Debug\netcoreapp2.1\BannerflowTest.pdb
